@@ -22,3 +22,4 @@ function redirectToLogin() {
 
 // Menambahkan event listener pada ikon log-in
 document.getElementById("log-in").addEventListener("click", redirectToLogin);
+
